@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eierdal93
 - 👀 I’m interested in ... creating software to ease work for others ad to develop webb applications
-- 🌱 I’m currently learning ... Java (beginners course LTU Sweden) Webb Development(Stockholms University: HTML5, CSS & JS)
+- 🌱 I’m currently learning ... Java (beginners course & Java OOP, LTU Sweden)  Webb Development(Stockholms University: HTML5, CSS & JS)
 - 💞️ I’m looking to collaborate on ... Programs in general, apps, creating beautiful websides
 - 📫 How to reach me ... lukaseierdal@gmail.com
 
